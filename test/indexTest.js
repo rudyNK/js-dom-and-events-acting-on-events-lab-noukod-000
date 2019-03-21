@@ -1,4 +1,5 @@
 const expect = chai.expect;
+
 describe('index', () => {
   describe('retrieveEmployeeInformation()', () => {
     it('retrieves the employee information from the input', () => {
@@ -56,5 +57,3 @@ describe('index', () => {
     })
   })
 })
-
-    
